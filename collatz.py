@@ -26,3 +26,5 @@ def collatz(number):
 n = input("Please enter a positive integer : ")
 while n != 1:
     n = collatz(int(n))
+
+# the last part of the code taken from stackoverflow.com
