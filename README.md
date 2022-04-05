@@ -3,7 +3,7 @@ This repository contains all weekly tasks.
 
 Unfortunately due to the time constrains this repository was not updated weekly :( BUT all of the files should be there :) Found these tasks very challenging due to the nature of the subject
 
-There are 8 different programs in this repository
+There are 7 different programs in this repository
 
 1. bmi.py           => Program that calculates somebody's Body Mass Index (BMI)
                         The inputs are the person's height in centimetres and weight in kilograms
