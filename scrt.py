@@ -17,5 +17,6 @@ while True:
     break # break from the while loop to the next variable
 
 number_sqrt = (number ** 0.5)
+# Formula for the sq.root
 
 print("The square root of %0.1f is approx %0.1f" %(number, number_sqrt))

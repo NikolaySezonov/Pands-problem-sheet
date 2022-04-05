@@ -9,5 +9,7 @@ weekno = datetime.datetime.today().weekday()
 
 if weekno < 5:
     print ("Unfortunately today is a working day, so go and crack some codes!")
+# Recognizes days of the weeks as the numbers
+
 else:  # 5 Sat, 6 Sun
     print ("Yes, it is a weekend, Hooray !")
