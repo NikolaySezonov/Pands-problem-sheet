@@ -1,4 +1,4 @@
-# This program will calculate BMI 
+# This program will calculate person BMI 
 # Author: Nikolay Sezonov
 
 number = int(input(' Please enter your weight in Kg: '))
