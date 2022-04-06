@@ -30,12 +30,3 @@ with open('moby-dick.txt', 'r') as text_file:
         counter = 0
     print ('Total number of required letter:',(total))
     
-
-    # the for loop goes through each line in the text file
-    # The count is looking at the line and adding 1 every time it runs through the for loop.
-        
-        
-        # If the count is even and has no remainders then the if statement is true.
-        
-               # If the if statement is true it will count number of "e" in each line, but i cannot get the total :(
-        
